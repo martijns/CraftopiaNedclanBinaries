@@ -1,0 +1,10 @@
+.gitkeep
+Craftopia.exe
+CraftopiaNedclanSync.exe
+Craftopia_BurstDebugInformation_DoNotShip
+Craftopia_Data
+MonoBleedingEdge
+UnityCrashHandler64.exe
+UnityPlayer.dll
+/BepInEx/cache/
+/BepInEx/LogOutput.log
